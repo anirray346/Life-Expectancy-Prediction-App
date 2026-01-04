@@ -23,17 +23,6 @@ The app provides an interactive interface for users and is deployed on **Streaml
 
 ---
 
-## Project Structure
-├── app.py
-├── model.pkl
-├── scaler.pkl
-├── features.pkl
-├── requirements.txt
-├── runtime.txt
-└── README.md
-
----
-
 ## To Run the App Locally
 
 1. Clone the repository:
