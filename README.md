@@ -29,7 +29,8 @@ The app provides an interactive interface for users and is deployed on **Streaml
 git clone https://github.com/anirray346/Life-Expectancy-Prediction-App.git
 
 2. Navigate to the project directory:
-cd your-repo-name
+cd Life-Expectancy-Prediction-App
+
 
 3. Install the required dependencies:
 pip install -r requirements.txt
